@@ -1,0 +1,12 @@
+body {
+    min-height: 100vh;
+}
+.calculator-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+}
+.calculator-content {
+    width: auto; /* Adjust the width as needed */
+}
